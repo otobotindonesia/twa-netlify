@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.otobotindonesia.twa",
+      "sha256_cert_fingerprints": [
+        "38:CC:92:6D:3D:D1:1A:9F:4F:32:52:66:75:02:B3:91:1A:75:7F:31:A8:F7:A9:28:9D:82:26:81:FA:6A:1C:46"
+      ]
+    }
+  }
+]
